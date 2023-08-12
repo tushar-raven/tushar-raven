@@ -1,7 +1,6 @@
 > <h1 align="left">Hi 👋, I'm Tushar Tayal</h1>
 
-<img align="right" width="300px" src="https://github.com/tusharravenclaw/tushar_raven/assets/72013857/2e9852e7-83cb-4876-a8a8-e1204f5469a9">
-
+<img align="right" width="300px" src="https://github.com/tushar-raven/tushar-raven/assets/72013857/ce36da3d-13e4-4045-9b72-239e08b75044">
 
 > <h3 align="left">I am a Front-End Developer.</h3>
 
