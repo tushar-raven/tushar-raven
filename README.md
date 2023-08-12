@@ -45,10 +45,10 @@
 <br>
 ---
  
-![Tushar's Github Stats](https://github-readme-stats.vercel.app//api?username=tusharravenclaw&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)
+![Tushar's Github Stats](https://github-readme-stats.vercel.app//api?username=tushar-raven&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)
  
-[![Tushar's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tusharravenclaw&bg_color=0d1117&color=f0f0f0&line=38d252&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tushar's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tushar-raven&bg_color=0d1117&color=f0f0f0&line=38d252&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharravenclaw&theme=github-dark&hide_border=true" alt="tushar_raven"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-raven&theme=github-dark&hide_border=true" alt="tushar-raven"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=tusharravenclaw&layout=compact&theme=gotham&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=tushar-raven&layout=compact&theme=gotham&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
