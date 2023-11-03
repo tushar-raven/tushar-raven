@@ -4,7 +4,7 @@
 
 > <h3 align="left">I am a Front-End Developer.</h3>
 
-- 🔭 I’m currently working at <a href="https://thoughtflow.io/">**`ThoughtFlow`**</a>
+- 🔭 I’m currently working at <a href="https://www.skailama.com/">**`Skai Lama`**</a>
 
 - 🌱 I’m currently learning Backend Development(MERN Stack)
 
